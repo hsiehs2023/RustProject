@@ -39,7 +39,7 @@ After compiling, installing, and setting up the project, users can interact with
 
 ### Searching for a Task
 
-` cargo run -- search "Task Name" ``` or ```cargo run -- search "Task Description" `
+` cargo run -- search "Task Name" ` or `cargo run -- search "Task Description" `
 
 ### Updating a Task
 
